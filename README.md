@@ -9,4 +9,4 @@ Demonstrate skills:
 - Add organized and unorganized lists to webpage
 - Add hypertext link in page to link to other pages
 
-Visit Site: https://harithkhan.github.io/odin-recipes/recipes/grilled-salmon.html 
+Visit Site: https://harithkhan.github.io/odin-recipes/index.html
