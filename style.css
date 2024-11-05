@@ -1,5 +1,6 @@
 body {
     font-family: "Lucida Console", "Courier New", monospace;
+    background-color: #c7e4be;
 }
 
 .index-button {
@@ -23,3 +24,6 @@ body {
     width: 300px;
 }
 
+.homepage-ul li a {
+    color: #23341f;
+}
