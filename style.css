@@ -19,18 +19,17 @@ p {
 /* Homepage styling */
 
 .homebody {
-    width: 500px;
+    width: 400px;
     margin: 0 auto;
 }
 
 .homeheader {
-    font-size: 60px;
+    font-size: 50px;
 }
-
 
 .odin {
     height: auto;
-    width: 500px;
+    width: 400px;
 }
 
 .home-recipe {
@@ -40,10 +39,10 @@ p {
     color: #fff; /* Text color */
     text-decoration: none; /* Remove underline */
     border: none;
-    border-radius: 5px; /* Rounded corners */
+    border-radius: 10px; /* Rounded corners */
     text-align: center;
     cursor: pointer;
-    font-size: 26px;
+    font-size: 20px;
 }
 
 .home-recipe:hover {
