@@ -74,7 +74,12 @@ p {
     background-color: #05630e; /* Darker shade on hover */
 }
 
+/* Salmon Page Styling */
 
+.salmon-img {
+    height: 300px;
+    width: auto;
+}
 
 
 
