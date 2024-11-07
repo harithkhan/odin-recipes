@@ -37,6 +37,11 @@ ol {
     font-size: 50px;
 }
 
+.home-link {
+    text-decoration: none;
+    color: black;
+}
+
 .odin {
     height: auto;
     width: 400px;
