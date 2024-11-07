@@ -50,7 +50,7 @@ p {
 }
 
 
-/* Recipe Styling */
+/* Recipe Pages General Styling */
 
 .recipe-body {
     width: 800px;
@@ -74,12 +74,28 @@ p {
     background-color: #05630e; /* Darker shade on hover */
 }
 
-/* Salmon Page Styling */
+/* Grilled-Salmon Page Styling */
 
 .salmon-img {
     height: 300px;
     width: auto;
+    border-radius: 5px; /* Rounded corners */
 }
 
 
+/* Butter Chicken Page Styling */
+
+.butter-chicken-img {
+    height: 500px;
+    width: auto;
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Maggi Goreng Page Styling */
+
+.maggi-goreng-img {
+    height: 340px;
+    width: auto;
+    border-radius: 5px; /* Rounded corners */
+}
 
