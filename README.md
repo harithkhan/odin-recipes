@@ -14,5 +14,9 @@ Demonstrate skills in CSS:
 - Style hypertext link as button.
 - Adjust width and height of picture in homepage using "auto".
 - Change font family and size of fonts. 
+- Demonstrate understanding of The Box Model, and block and inline.
+- Remove default browser margins.
+- Add aesthetically pleasing margins to elements in pages.
+- Align elements towards center of page.
 
 Visit Site: https://harithkhan.github.io/odin-recipes/index.html
