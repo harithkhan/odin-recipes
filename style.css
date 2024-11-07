@@ -42,6 +42,10 @@ ol {
     color: black;
 }
 
+.home-link:hover {
+    color: #05630e;
+}
+
 .odin {
     height: auto;
     width: 400px;
