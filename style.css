@@ -30,7 +30,7 @@ ol {
 
 .homebody {
     width: 400px;
-    margin: 0 auto;
+    margin: 50px auto;
 }
 
 .homeheader {
@@ -64,7 +64,7 @@ ol {
 
 .recipe-body {
     width: 800px;
-    margin: 0 auto;
+    margin: 50px auto;
 }
 
 .index-button {
@@ -91,7 +91,6 @@ ol {
     width: auto;
     border-radius: 5px; /* Rounded corners */
 }
-
 
 /* Butter Chicken Page Styling */
 
