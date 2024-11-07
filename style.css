@@ -16,6 +16,16 @@ p {
     margin: 8px 0;
 }
 
+/* List indentations */
+
+ul {
+    margin-left: 30px;
+}
+
+ol {
+    margin-left: 30px;
+}
+
 /* Homepage styling */
 
 .homebody {
