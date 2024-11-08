@@ -99,6 +99,12 @@ ol {
     color: white;
 }
 
+.description,
+.ingredients,
+.steps {
+    margin: 30px 0;
+}
+
 /* Grilled-Salmon Page Styling */
 
 .salmon-img {
