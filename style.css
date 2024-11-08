@@ -79,20 +79,24 @@ ol {
 }
 
 .index-button {
-    display: inline-block;
+    display: block;
     padding: 10px 20px;
-    background-color: #05ac0e; /* Button background color */
-    color: #fff; /* Text color */
+    background-color: none; /* Button background color */
+    color: black; /* Text color */
     text-decoration: none; /* Remove underline */
-    border: none;
+    border: 2px solid black;
     border-radius: 5px; /* Rounded corners */
     text-align: center;
     cursor: pointer;
-    margin: 8px 0;
+    width: 300px;
+    margin: 30px auto;
+    font-size: 24px;
 }
 
 .index-button:hover {
-    background-color: #05630e; /* Darker shade on hover */
+    background-color: #05ac0e; /* Darker shade on hover */
+    border: none;
+    color: white;
 }
 
 /* Grilled-Salmon Page Styling */
