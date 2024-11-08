@@ -29,7 +29,7 @@ ol {
 /* Homepage styling */
 
 .homebody {
-    width: 400px;
+    max-width: 400px;
     margin: 50px auto;
 }
 
@@ -70,11 +70,10 @@ ol {
     color: white;
 }
 
-
 /* Recipe Pages General Styling */
 
 .recipe-body {
-    width: 800px;
+    max-width: 700px;
     margin: 50px auto;
 }
 
