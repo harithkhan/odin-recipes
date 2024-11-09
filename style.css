@@ -111,24 +111,24 @@ ol {
 /* Grilled-Salmon Page Styling */
 
 .salmon-img {
-    height: 300px;
-    width: auto;
+    height: auto;
+    width: 400px;
     border-radius: 5px; /* Rounded corners */
 }
 
 /* Butter Chicken Page Styling */
 
 .butter-chicken-img {
-    height: 300px;
-    width: auto;
+    height: auto;
+    width: 400px;
     border-radius: 5px; /* Rounded corners */
 }
 
 /* Maggi Goreng Page Styling */
 
 .maggi-goreng-img {
-    height: 340px;
-    width: auto;
+    height: auto;
+    width: 400px;
     border-radius: 5px; /* Rounded corners */
 }
 
